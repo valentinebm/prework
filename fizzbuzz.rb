@@ -11,7 +11,7 @@ for x in array
 	result << "Buzz"
 	end 
 
-	if x.to_s[0] = "1"
+	if x.to_s[0] == "1"
 	result << "Bang"
 	end 
 
